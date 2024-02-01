@@ -1,0 +1,29 @@
+Date,Name / Description,Expense/Income,Amount (EUR),Transaction vs category,Transaction,Category
+2023-12-30,Belastingdienst,Expense,9.96,1. Belastingdienst - Taxes,Belastingdienst,Taxes
+2023-12-30,Tesco Dordrecht,Expense,17.53,2. Tesco Dordrecht - Groceries,Tesco Dordrecht,Groceries
+2023-12-30,Monthly Appartment Rent,Expense,451.0,3. Monthly Appartment Rent - Housing,Monthly Appartment Rent,Housing
+2023-12-29,Selling Paintings,Income,13.63,5. Selling Paintings - Art/Crafts,Selling Paintings,Art/Crafts
+2023-12-29,Spotify Ab By Adyen,Expense,12.19,6. Spotify AB by Adyen - Entertainment,Spotify Ab By Adyen,Entertainment
+2023-12-28,Tls Bv Inz Ov-Chipkaart,Expense,18.9,7. TLS BV Inz Ov-Chipkaart - Transportation,Tls Bv Inz Ov-Chipkaart,Transportation
+2023-12-27,Tikkie Zakelijk,Expense,39.39,8. Tikkie Zakelijk - Business Services,Tikkie Zakelijk,Services
+2023-12-23,Tesco Dordrecht,Expense,15.75,2. Tesco Dordrecht - Groceries,Tesco Dordrecht,Groceries
+2023-12-23,Tk Maxx Amsterdam Da,Expense,27.08,9. Tk Maxx Amsterdam Da - Shopping,Tk Maxx Amsterdam Da,Shopping
+2023-12-22,Consulting,Income,541.57,10. Consulting - Professional Services,Consulting,Services
+2023-12-22,Aidsfonds,Expense,10.7,11. Aidsfonds - Charity/Donations,Aidsfonds,Charity/Donations
+2023-12-20,Consulting,Income,2641.93,10. Consulting - Professional Services,Consulting,Services
+2023-12-19,Tls Bv Inz Ov-Chipkaart,Expense,18.9,7. TLS BV Inz Ov-Chipkaart - Transportation,Tls Bv Inz Ov-Chipkaart,Transportation
+2023-12-18,Etos Amsterdam,Expense,17.67,15. Etos Amsterdam - Shopping,Etos Amsterdam,Shopping
+2023-12-18,Tesco Dordrecht,Expense,8.809999999999999,2. Tesco Dordrecht - Groceries,Tesco Dordrecht,Groceries
+2023-12-18,Beta Boulders Ams Amsterdam,Expense,6.94,16. Beta Boulders Ams Amsterdam - Entertainment,Beta Boulders Ams Amsterdam,Entertainment
+2023-12-17,Etraveli,Expense,1055.52,17. Etraveli - Travel,Etraveli,Travel
+2023-12-16,Tesco Dordrecht,Expense,8.98,2. Tesco Dordrecht - Groceries,Tesco Dordrecht,Groceries
+2023-12-14,Ccv*Samrat Indian Rest Amsterdam,Expense,7.720000000000001,19. Ccv*Samrat Indian Rest Amsterdam - Food/Beverage,Ccv*Samrat Indian Rest Amsterdam,Food and Drinks
+2023-12-11,Tikkie,Expense,9.59,22. Tikkie - Financial Services,Tikkie,Services
+2023-12-11,Tesco Leeuwarden,Expense,5.52,23. Tesco Leeuwarden - Groceries,Tesco Leeuwarden,Groceries
+2023-08-05,Lc Taxi Anhee Bel,Expense,11.45,25. LC Taxi Anhee Bel - Transportation,Lc Taxi Anhee Bel,Transportation
+2023-08-02,Lidl Dordrecht,Expense,8.89,14. Lidl Dordrecht - Groceries,Lidl Dordrecht,Groceries
+2023-08-02,Kruidvat Dordrecht,Expense,20.35,30. Kruidvat Dordrecht - Health & Beauty,Kruidvat Dordrecht,Health and Wellness
+2023-08-02,Tesco Dordrecht,Expense,4.74,2. Tesco Dordrecht - Groceries,Tesco Dordrecht,Groceries
+2023-08-02,Tls Bv Inz Ov-Chipkaart,Expense,18.9,7. TLS BV Inz Ov-Chipkaart - Transportation,Tls Bv Inz Ov-Chipkaart,Transportation
+2022-01-16,Amazon Lux,Expense,24.11,14. Amazon Lux - Online Shopping,Amazon Lux,Online Shopping
+2022-01-15,Classpass* Monthly,Expense,30.08,15. Classpass* Monthly Missoula Usa - Subscription,Classpass* Monthly Missoula Usa,Subscription
